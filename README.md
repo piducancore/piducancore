@@ -4,6 +4,8 @@
   <img align="right" src="cyberpunga.gif" />
 </a>
 
+<br />
+
 I'm a software developer from <s>the end of the world</s> Chile 🌄🍇🍷.
 
 <p>
