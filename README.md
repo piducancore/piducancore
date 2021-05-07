@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Rodrigo
+# Hi, my name is Rodrigo
 
 <a href="https://cyberpun.ga" target="_blank">
   <img align="right" src="cyberpunga.gif" />
@@ -6,7 +6,7 @@
 
 <br />
 
-I'm a software developer from <s>the end of the world</s> Chile 🌄🍇🍷.
+I'm a software developer from <s>the end of the world</s> 🌶️ Chile.
 
 <p>
   I collaborate on dumb sh1t at <a href="https://cyberpun.ga"><strong><i>cyberpunga</i></strong></a> and pretend to be professional at
