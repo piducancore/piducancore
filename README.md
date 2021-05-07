@@ -13,10 +13,8 @@ I'm a software developer from <s>the end of the world</s> 🌶️ Chile.
   <a href="https://piducan.dev" target="_blank"><strong><i>Your Company Here</i></strong></a>.
 </p>.
 
-
-
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **piducancore/piducancore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
