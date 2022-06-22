@@ -1,6 +1,6 @@
-# 👋 Hey! My name is Rodrigo and here I am spilling Javascript everywhere.
+<img align='right' src="https://raw.githubusercontent.com/piducancore/piducancore/main/wolf-of-javascript.png" width="480">
 
-![](https://raw.githubusercontent.com/piducancore/piducancore/main/wolf-of-javascript.png)
+# 👋 Hey! My name is Rodrigo, and I'm here to deliver some Javascript
 
 <!--
 **piducancore/piducancore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
