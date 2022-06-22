@@ -1,4 +1,4 @@
-<img align='right' src="https://raw.githubusercontent.com/piducancore/piducancore/main/wolf-of-javascript.png" width="480">
+<img align='right' src="https://raw.githubusercontent.com/piducancore/piducancore/main/wolf-of-javascript.png" width="320">
 
 # 👋 Hey! My name is Rodrigo, and I'm here to deliver some Javascript
 
