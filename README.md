@@ -1,4 +1,6 @@
-### Hi there 👋
+# 👋 Hey! My name is Rodrigo and here I am spilling Javascript everywhere.
+
+![](https://raw.githubusercontent.com/piducancore/piducancore/main/wolf-of-javascript.png)
 
 <!--
 **piducancore/piducancore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
