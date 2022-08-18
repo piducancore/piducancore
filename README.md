@@ -35,6 +35,24 @@ En este proyecto implementé el concepto de scrollytelling, que consiste en cont
   
 Repository: [piducancore/cerros-del-maule](https://github.com/piducancore/cerros-del-maule)
 
+<img style="object-fit: cover; width: 160px; height: 160px;" align="left" src="https://via.placeholder.com/150/0000FF/808080">
+
+## maulina ([see working demo](https://maulina.cl))
+
+This is the website for maulina.cl camerafire a space dedicated to the visibility and dissemination of the photographic work of women in the Maule Region, Chile.
+
+Repository: [piducancore/maulina.cl](https://github.com/piducancore/maulina.cl)
+
+In addition to the ones above, I've built some cool stuff with serverless functions (Thanks to Netlify and Vercel), some of which are:
+
+[serverless-puppeteer-screenshots](https://github.com/piducancore/serverless-puppeteer-screenshots)
+
+[anda-al-gimnasio](https://github.com/piducancore/anda-al-gimnasio)
+
+[feriados](https://github.com/piducancore/feriados)
+
+[serverless-tts-api](https://github.com/piducancore/serverless-tts-api)
+
 <!--
 **piducancore/piducancore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
