@@ -1,12 +1,8 @@
 # 👋 Hey!
 
-My name is **Rodrigo** and here I am spilling Javascript everywhere.
+My name is Rodrigo and I spill Javascript everywhere.
 
-<center>
-  <img src="https://raw.githubusercontent.com/piducancore/piducancore/main/wolf-of-javascript.png">
-</center>
-
-## How it started
+<img style="width: 48%;" align="right" src="https://raw.githubusercontent.com/piducancore/piducancore/main/wolf-of-javascript.png">
 
 I started my coding journey with [freeCodeCamp(🔥)](https://www.freecodecamp.org), where I got the [Responsive Web Design](https://www.freecodecamp.org/certification/piducancore/responsive-web-design) and [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/piducancore/javascript-algorithms-and-data-structures) certifications.
 
@@ -15,6 +11,8 @@ Soon after, I got on tech Twitter (I'm [@piducancore](https://twitter.com/piduca
 ## How is it going
 
 Many projects after, in 2022, I know not everything has to have GraphQL, and I've built an interesting variety of projects using JAMstack technologies, both personal art projects and commission work as an independent consultant.
+
+Below I show you the most recent and the ones that I'm most proud of.
 
 <!--
 **piducancore/piducancore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
