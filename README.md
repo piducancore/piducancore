@@ -1,6 +1,8 @@
 # 👋 Hey!
 
-<img align="left" src="https://raw.githubusercontent.com/piducancore/piducancore/main/wolf-of-javascript.png" width="50%">
+<center>
+  <img src="https://raw.githubusercontent.com/piducancore/piducancore/main/wolf-of-javascript.png">
+</center>
 
 My name is **Rodrigo** and here I am spilling Javascript everywhere.
 
