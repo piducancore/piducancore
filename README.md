@@ -43,6 +43,15 @@ This is the website for maulina.cl camerafire a space dedicated to the visibilit
 
 Repository: [piducancore/maulina.cl](https://github.com/piducancore/maulina.cl)
 
+<br>
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11337928/185349410-3557570a-4dc6-4103-a72e-e31f3c437db0.gif">
+</p>
+<p align="middle">
+  <i>I recently learned you can put whole GLTF scenes over a map,<br>like this giant cow over Talca city.</i>
+</p>
+
 In addition to the ones above, I've built some cool stuff with serverless functions (Thanks to Netlify and Vercel), some of which are:
 
 [serverless-puppeteer-screenshots](https://github.com/piducancore/serverless-puppeteer-screenshots): This public API can take a screenshot from any URL you pass to it. Build using Puppeteer and NodeJS serverless functions, powered by Vercel.
