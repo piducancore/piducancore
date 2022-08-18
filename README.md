@@ -75,7 +75,8 @@ Repository: [piducancore/cerros-del-maule](https://github.com/piducancore/cerros
 
 <hr>
 
-In addition to the above, I've also built some cool stuff with **serverless functions**, thanks to Netlify and Vercel free plans ❤️
+In addition to the above, I've also built some cool stuff with **serverless functions**, thanks to [Netlify](https://www.netlify.com) and [Vercel]
+(https://www.vercel.com) free plans ❤️
 
 ## [`serverless-puppeteer-screenshots`](https://github.com/piducancore/serverless-puppeteer-screenshots)
 
@@ -88,6 +89,8 @@ Built with Puppeteer and NodeJS serverless functions. Powered by Vercel.
 This is a minimal example of a serverless Text to Speech API using IBM Watson and Vercel.
 
 ## [`anda-al-gimnasio`](https://github.com/piducancore/anda-al-gimnasio)
+
+This one was really fun to build and is one of my latest projects. This scheduled function runs everyday and reserves my gym hours, then notifies me via Telegram.
 
 You'll find more if you dig into [my repositories](https://github.com/piducancore?tab=repositories).
 
