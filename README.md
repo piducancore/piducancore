@@ -8,7 +8,7 @@ I started my coding journey with [freeCodeCamp(🔥)](https://www.freecodecamp.o
 
 Soon after, I got on tech Twitter (I'm [@piducancore](https://twitter.com/piducancore) over there) and discovered I had to learn React, which I did. It was 2019. Gatsby was still great. They even gave me a t-shirt for [contributing a starter project](https://github.com/gatsbyjs/gatsby/pull/16117) based on [Apollo GraphQL](https://www.apollographql.com/) and [Netlify Functions](https://www.netlify.com/products/functions/): [`gatsby-starter-apollo-netlify`](https://github.com/piducancore/gatsby-starter-apollo-netlify), still my most starred repository on GitHub. I wanted to [make]() [everything]() [GraphQL]() back then.
 
-Now in 2022 I know not everything has to have GraphQL, but I've built a small variety of projects using JAMstack technologies, both personal art projects and commission work as an independent consultant.
+Many projects after, in 2022, I know not everything has to have GraphQL, and I've built an interesting variety of projects using JAMstack technologies, both personal art projects and commission work as an independent consultant.
 
 <!--
 **piducancore/piducancore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
