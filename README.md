@@ -10,11 +10,9 @@ Soon after, I got on tech Twitter (I'm [@piducancore](https://twitter.com/piduca
 
 I wanted to [make]() [everything]() [GraphQL]() back then.
 
-## How is it going
+Many projects after, in 2022, I know not everything has to have GraphQL, and I've built a small variety of projects using JAMstack technologies, both personal art projects and commission work as an independent consultant.
 
-Many projects after, in 2022, I know not everything has to have GraphQL, and I've built an interesting variety of projects using JAMstack technologies, both personal art projects and commission work as an independent consultant.
-
-Below I show you the most recent and the ones that I'm most proud of.
+Below I show you the most recent and the ones I am most proud of.
 
 <!--
 **piducancore/piducancore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
