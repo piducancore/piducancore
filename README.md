@@ -75,24 +75,23 @@ Repository: [piducancore/cerros-del-maule](https://github.com/piducancore/cerros
 
 <hr>
 
-In addition to the above, I've also built some cool stuff with **serverless functions**, thanks to [Netlify](https://www.netlify.com) and [Vercel]
-(https://www.vercel.com) free plans ❤️
+In addition to the above, I've also built some cool stuff with **serverless functions**, thanks to [Netlify](https://www.netlify.com) and [Vercel](https://www.vercel.com) free plans ❤️
 
 ## [`serverless-puppeteer-screenshots`](https://github.com/piducancore/serverless-puppeteer-screenshots)
 
-This public API can take a screenshot from any URL you pass to it.
-
-Built with Puppeteer and NodeJS serverless functions. Powered by Vercel.
+This public API can take a screenshot from any URL you pass to it, using [Puppeteer](https://pptr.dev).
 
 ## [`serverless-tts-api`](https://github.com/piducancore/serverless-tts-api)
 
-This is a minimal example of a serverless Text to Speech API using IBM Watson and Vercel.
+This is a minimal example of a _serverless_ Text to Speech API using [IBM Watson](https://www.ibm.com/cloud/watson-text-to-speech).
 
 ## [`anda-al-gimnasio`](https://github.com/piducancore/anda-al-gimnasio)
 
-This one was really fun to build and is one of my latest projects. This scheduled function runs everyday and reserves my gym hours, then notifies me via Telegram.
+This scheduled function runs everyday and reserves my gym hours, then notifies me via [Telegram](https://www.telegram.org).
 
-You'll find more if you dig into [my repositories](https://github.com/piducancore?tab=repositories).
+<p align="center">
+  You'll find more if you dig into <a href="https://github.com/piducancore?tab=repositories">my repositories</a>.
+</p>
 
 # Finally
 
