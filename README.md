@@ -27,7 +27,6 @@ Use this when you need to collect data using your own custom forms, but you don'
 Repository: [piducancore/sheetforms.co](https://github.com/piducancore/sheetforms.co)
 
 <br>
-<br>
 
 <img height="180" align="left" src="https://user-images.githubusercontent.com/11337928/185336913-4d0fea91-eec2-4de4-8a9d-599b636a3eb0.png">
 
@@ -40,7 +39,6 @@ This project was awarded the Regional Cultural Propagation Fund 2021.
 Repository: [piducancore/maulina.cl](https://github.com/piducancore/maulina.cl)
 
 <br>
-<br>
 
 <img height="180" align="left" src="https://user-images.githubusercontent.com/11337928/185353947-2b16f259-ae55-4816-a450-af05e87ae186.png">
 
@@ -50,7 +48,6 @@ This is a storefront for Editorial Deriva, a poetry publisher from Villa Alegre,
 
 Repository: [eljuliopo/editorialderiva.org](https://github.com/eljuliopo/editorialderiva.org)
 
-<br>
 <br>
 
 <img height="180" align="left" src="https://user-images.githubusercontent.com/11337928/185336428-1d705157-884f-42d4-90d6-8e84449b75ec.png">
@@ -63,8 +60,6 @@ Repository: [piducancore/cerros-del-maule](https://github.com/piducancore/cerros
 
 <br>
 <br>
-<br>
-<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/11337928/185349410-3557570a-4dc6-4103-a72e-e31f3c437db0.gif">
@@ -73,21 +68,23 @@ Repository: [piducancore/cerros-del-maule](https://github.com/piducancore/cerros
   <i>I recently learned you can put whole GLTF scenes over a map,<br>like this giant cow over Talca city.</i>
 </p>
 
-<hr>
+<br>
 
 In addition to the above, I've also built some cool stuff with **serverless functions**, thanks to [Netlify](https://www.netlify.com) and [Vercel](https://www.vercel.com) free plans ❤️
 
-## [`serverless-puppeteer-screenshots`](https://github.com/piducancore/serverless-puppeteer-screenshots)
+- [**`serverless-puppeteer-screenshots`**](https://github.com/piducancore/serverless-puppeteer-screenshots)
 
-This public API can take a screenshot from any URL you pass to it, using [Puppeteer](https://pptr.dev).
+  This public API can take a screenshot from any URL you pass to it, using [Puppeteer](https://pptr.dev).
 
-## [`serverless-tts-api`](https://github.com/piducancore/serverless-tts-api)
+- [**`serverless-tts-api`**](https://github.com/piducancore/serverless-tts-api)
 
-This is a minimal example of a _serverless_ Text to Speech API using [IBM Watson](https://www.ibm.com/cloud/watson-text-to-speech).
+  This is a minimal example of a _serverless_ Text to Speech API using [IBM Watson](https://www.ibm.com/cloud/watson-text-to-speech).
 
-## [`anda-al-gimnasio`](https://github.com/piducancore/anda-al-gimnasio)
+- [**`anda-al-gimnasio`**](https://github.com/piducancore/anda-al-gimnasio)
 
-This scheduled function runs everyday and reserves my gym hours, then notifies me via [Telegram](https://www.telegram.org).
+  This scheduled function runs everyday and reserves my gym hours, then notifies me via [Telegram](https://www.telegram.org).
+
+<br>
 
 <p align="center">
   You'll find more if you dig into <a href="https://github.com/piducancore?tab=repositories">my repositories</a>.
