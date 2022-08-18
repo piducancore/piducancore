@@ -1,6 +1,6 @@
 # 👋 Hey!
 
-My name is Rodrigo and I spill Javascript everywhere.
+My name is **Rodrigo** and I spill Javascript everywhere.
 
 <img style="width: 48%;" align="right" src="https://raw.githubusercontent.com/piducancore/piducancore/main/wolf-of-javascript.png">
 
