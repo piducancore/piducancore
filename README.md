@@ -14,7 +14,7 @@ Many projects after, in 2022, I know not everything has to have GraphQL, and I'v
 
 Below I show you the most recent and the ones I am most proud of.
 
-<img style="object-fit: cover; width: 160px; height: 160px;" align="left" src="https://via.placeholder.com/150/0000FF/808080">
+<img height="180" align="left" src="https://user-images.githubusercontent.com/11337928/185335746-e6a34359-e292-4a11-87a2-6674ea0eea51.png">
 
 ## sheetforms.co ([see working demo](https://sheetforms.co))
 
@@ -24,7 +24,7 @@ Use this when you need to collect data using your own custom forms, but you don'
 
 Repository: [piducancore/sheetforms.co](https://github.com/piducancore/sheetforms.co)
 
-<img style="object-fit: cover; width: 160px; height: 160px;" align="left" src="https://via.placeholder.com/150/0000FF/808080">
+<img height="180" align="left" src="https://user-images.githubusercontent.com/11337928/185336428-1d705157-884f-42d4-90d6-8e84449b75ec.png">
 
 ## cerros del maule ([see working demo](https://cerros-del-maule.vercel.app))
 
@@ -35,7 +35,7 @@ En este proyecto implementé el concepto de scrollytelling, que consiste en cont
   
 Repository: [piducancore/cerros-del-maule](https://github.com/piducancore/cerros-del-maule)
 
-<img style="object-fit: cover; width: 160px; height: 160px;" align="left" src="https://via.placeholder.com/150/0000FF/808080">
+<img height="180" align="left" src="https://user-images.githubusercontent.com/11337928/185336913-4d0fea91-eec2-4de4-8a9d-599b636a3eb0.png">
 
 ## maulina ([see working demo](https://maulina.cl))
 
