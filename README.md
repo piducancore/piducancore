@@ -41,7 +41,15 @@ Repository: [piducancore/cerros-del-maule](https://github.com/piducancore/cerros
 
 This is the website for maulina.cl camerafire a space dedicated to the visibility and dissemination of the photographic work of women in the Maule Region, Chile.
 
+a
+
 Repository: [piducancore/maulina.cl](https://github.com/piducancore/maulina.cl)
+
+<img height="180" align="left" src="https://user-images.githubusercontent.com/11337928/185353947-2b16f259-ae55-4816-a450-af05e87ae186.png">
+
+## editorial deriva ([see working demo](https://www.editorialderiva.org))
+
+This is a storefront for Editorial Deriva, a poetry publisher from Villa Alegre, Chile. This project allows them to take orders, receive payments and keep in touch with their community through a blog.
 
 <br>
 <br>
