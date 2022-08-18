@@ -45,13 +45,17 @@ Repository: [piducancore/maulina.cl](https://github.com/piducancore/maulina.cl)
 
 In addition to the ones above, I've built some cool stuff with serverless functions (Thanks to Netlify and Vercel), some of which are:
 
-[serverless-puppeteer-screenshots](https://github.com/piducancore/serverless-puppeteer-screenshots)
+[serverless-puppeteer-screenshots](https://github.com/piducancore/serverless-puppeteer-screenshots): This public API can take a screenshot from any URL you pass to it. Build using Puppeteer and NodeJS serverless functions, powered by Vercel.
 
 [anda-al-gimnasio](https://github.com/piducancore/anda-al-gimnasio)
 
 [feriados](https://github.com/piducancore/feriados)
 
-[serverless-tts-api](https://github.com/piducancore/serverless-tts-api)
+[serverless-tts-api](https://github.com/piducancore/serverless-tts-api): This is a minimal example of a serverless Text to Speech API using IBM Watson and Vercel.
+
+You'll find more if you dig into [my repositories](https://github.com/piducancore?tab=repositories).
+
+Finally, if you are still reading this, you might be interested in [***`cyberpunga`***](https://github.com/cyberpunga), a place where I store my more _experimental_ stuff.
 
 <!--
 **piducancore/piducancore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
