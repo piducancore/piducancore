@@ -24,24 +24,13 @@ Use this when you need to collect data using your own custom forms, but you don'
 
 Repository: [piducancore/sheetforms.co](https://github.com/piducancore/sheetforms.co)
 
-<img height="180" align="left" src="https://user-images.githubusercontent.com/11337928/185336428-1d705157-884f-42d4-90d6-8e84449b75ec.png">
-
-## cerros del maule ([see working demo](https://cerros-del-maule.vercel.app))
-
-Esta es una visualización tridimensional de los cerros de la Región del Maule, utilizando react-map-gl (una librería Javascript parte de vis.gl, un conjunto de herramientas para la visualización de datos geoespaciales creada por Uber).
-
-Todos los datos aquí expuestos han sido recopilados por la comunidad y puestos a disposición a través del sitio andeshandbook.org.
-En este proyecto implementé el concepto de scrollytelling, que consiste en contar historias utilizando la barra de desplazamiento del navegador para gatillar eventos de todo tipo, en este caso, para volar de un cerro a otro. 
-  
-Repository: [piducancore/cerros-del-maule](https://github.com/piducancore/cerros-del-maule)
-
 <img height="180" align="left" src="https://user-images.githubusercontent.com/11337928/185336913-4d0fea91-eec2-4de4-8a9d-599b636a3eb0.png">
 
 ## maulina ([see working demo](https://maulina.cl))
 
 This is the website for maulina.cl camerafire a space dedicated to the visibility and dissemination of the photographic work of women in the Maule Region, Chile.
 
-a
+This project was made possible thanks to the Regional Fund for Cultural Propagation 2021.
 
 Repository: [piducancore/maulina.cl](https://github.com/piducancore/maulina.cl)
 
@@ -50,6 +39,16 @@ Repository: [piducancore/maulina.cl](https://github.com/piducancore/maulina.cl)
 ## editorial deriva ([see working demo](https://www.editorialderiva.org))
 
 This is a storefront for Editorial Deriva, a poetry publisher from Villa Alegre, Chile. This project allows them to take orders, receive payments and keep in touch with their community through a blog.
+
+Repository: [eljuliopo/editorialderiva.org](https://github.com/eljuliopo/editorialderiva.org)
+
+<img height="180" align="left" src="https://user-images.githubusercontent.com/11337928/185336428-1d705157-884f-42d4-90d6-8e84449b75ec.png">
+
+## cerros del maule ([see working demo](https://cerros-del-maule.vercel.app))
+
+This is a 3D data visualization of the mountains from the Maule region. All data exposed here was collected by the community and made publicly available by [Andeshandbook.org](https://www.andeshandbook.org).
+
+Repository: [piducancore/cerros-del-maule](https://github.com/piducancore/cerros-del-maule)
 
 <br>
 <br>
