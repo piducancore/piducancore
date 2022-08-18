@@ -14,6 +14,8 @@ Many projects after, in 2022, I know not everything has to have GraphQL, and I'v
 
 Below I show you the most recent and the ones I am most proud of.
 
+# 👷 My work
+
 <!--
 **piducancore/piducancore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
