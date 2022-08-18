@@ -12,6 +12,8 @@ I wanted to [make]() [everything](https://github.com/piducancore/datasets-graphq
 
 Many projects after, in 2022, I know not everything has to have GraphQL, and I've built a small variety of projects using JAMstack technologies, both personal art projects and commission work as an independent consultant.
 
+# Work
+
 Below I show you the most recent and the ones I am most proud of.
 
 <img height="180" align="left" src="https://user-images.githubusercontent.com/11337928/185335746-e6a34359-e292-4a11-87a2-6674ea0eea51.png">
@@ -61,6 +63,8 @@ Repository: [piducancore/cerros-del-maule](https://github.com/piducancore/cerros
 
 <br>
 <br>
+<br>
+<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/11337928/185349410-3557570a-4dc6-4103-a72e-e31f3c437db0.gif">
@@ -69,19 +73,27 @@ Repository: [piducancore/cerros-del-maule](https://github.com/piducancore/cerros
   <i>I recently learned you can put whole GLTF scenes over a map,<br>like this giant cow over Talca city.</i>
 </p>
 
-In addition to the ones above, I've built some cool stuff with serverless functions (Thanks to Netlify and Vercel), some of which are:
+<hr>
 
-[serverless-puppeteer-screenshots](https://github.com/piducancore/serverless-puppeteer-screenshots): This public API can take a screenshot from any URL you pass to it. Build using Puppeteer and NodeJS serverless functions, powered by Vercel.
+In addition to the above, I've also built some cool stuff with **serverless functions**, thanks to Netlify and Vercel free plans ❤️
 
-[anda-al-gimnasio](https://github.com/piducancore/anda-al-gimnasio)
+## [`serverless-puppeteer-screenshots`](https://github.com/piducancore/serverless-puppeteer-screenshots)
 
-[feriados](https://github.com/piducancore/feriados)
+This public API can take a screenshot from any URL you pass to it.
 
-[serverless-tts-api](https://github.com/piducancore/serverless-tts-api): This is a minimal example of a serverless Text to Speech API using IBM Watson and Vercel.
+Built with Puppeteer and NodeJS serverless functions. Powered by Vercel.
+
+## [`serverless-tts-api`](https://github.com/piducancore/serverless-tts-api)
+
+This is a minimal example of a serverless Text to Speech API using IBM Watson and Vercel.
+
+## [`anda-al-gimnasio`](https://github.com/piducancore/anda-al-gimnasio)
 
 You'll find more if you dig into [my repositories](https://github.com/piducancore?tab=repositories).
 
-Finally, if you are still reading this, you might be interested in [***`cyberpunga`***](https://github.com/cyberpunga), a place where I store my more _experimental_ stuff.
+# Finally
+
+If you are still reading this, you might be interested in [***`cyberpunga`***](https://github.com/cyberpunga), a place where I store my more _experimental_ stuff.
 
 <!--
 **piducancore/piducancore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
