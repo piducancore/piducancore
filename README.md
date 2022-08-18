@@ -28,9 +28,9 @@ Repository: [piducancore/sheetforms.co](https://github.com/piducancore/sheetform
 
 ## maulina ([see working demo](https://maulina.cl))
 
-This is the website for maulina.cl camerafire a space dedicated to the visibility and dissemination of the photographic work of women in the Maule Region, Chile.
+Maulina is a space dedicated to the visibility and dissemination of the photographic work of women in the Maule Region, Chile.
 
-This project was made possible thanks to the Regional Fund for Cultural Propagation 2021.
+This project was awarded the Regional Cultural Propagation Fund 2021.
 
 Repository: [piducancore/maulina.cl](https://github.com/piducancore/maulina.cl)
 
