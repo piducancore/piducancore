@@ -24,6 +24,9 @@ Use this when you need to collect data using your own custom forms, but you don'
 
 Repository: [piducancore/sheetforms.co](https://github.com/piducancore/sheetforms.co)
 
+<br>
+<br>
+
 <img height="180" align="left" src="https://user-images.githubusercontent.com/11337928/185336913-4d0fea91-eec2-4de4-8a9d-599b636a3eb0.png">
 
 ## maulina ([see working demo](https://maulina.cl))
@@ -34,6 +37,9 @@ This project was awarded the Regional Cultural Propagation Fund 2021.
 
 Repository: [piducancore/maulina.cl](https://github.com/piducancore/maulina.cl)
 
+<br>
+<br>
+
 <img height="180" align="left" src="https://user-images.githubusercontent.com/11337928/185353947-2b16f259-ae55-4816-a450-af05e87ae186.png">
 
 ## editorial deriva ([see working demo](https://www.editorialderiva.org))
@@ -41,6 +47,9 @@ Repository: [piducancore/maulina.cl](https://github.com/piducancore/maulina.cl)
 This is a storefront for Editorial Deriva, a poetry publisher from Villa Alegre, Chile. This project allows them to take orders, receive payments and keep in touch with their community through a blog.
 
 Repository: [eljuliopo/editorialderiva.org](https://github.com/eljuliopo/editorialderiva.org)
+
+<br>
+<br>
 
 <img height="180" align="left" src="https://user-images.githubusercontent.com/11337928/185336428-1d705157-884f-42d4-90d6-8e84449b75ec.png">
 
@@ -52,6 +61,7 @@ Repository: [piducancore/cerros-del-maule](https://github.com/piducancore/cerros
 
 <br>
 <br>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/11337928/185349410-3557570a-4dc6-4103-a72e-e31f3c437db0.gif">
 </p>
