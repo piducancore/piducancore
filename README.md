@@ -1,5 +1,5 @@
 # 👋 Hey!
-
+<!--
 My name is **Rodrigo** and I spill Javascript everywhere.
 
 <img style="width: 48%;" align="right" src="https://raw.githubusercontent.com/piducancore/piducancore/main/wolf-of-javascript.png">
@@ -91,8 +91,8 @@ In addition to the above, I've also built some cool stuff with **serverless func
 </p>
 
 # Finally
-
-If you are still reading this, you might be interested in [***`cyberpunga`***](https://github.com/cyberpunga), a place where I store my more _experimental_ stuff.
+-->
+If you are reading this, you might also be interested in [***`cyberpunga`***](https://github.com/cyberpunga).
 
 <!--
 **piducancore/piducancore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
